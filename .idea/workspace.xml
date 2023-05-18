@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bced715d-f523-483a-9128-b18e0d33bc95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/03/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/Eventloop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/index4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,19 +23,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "H:/it-incubator/SREDA/Nativyrok(sr)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/it-incubator/SREDA/Nativyrok(sr)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="H:\it-incubator\SREDA\Nativyrok(sr)" />
+      <recent name="H:\it-incubator\SREDA\Nativyrok(sr)\03" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\it-incubator\SREDA\Nativyrok(sr)\03" />
     </key>
   </component>
@@ -49,7 +53,9 @@
       <workItem from="1682618738822" duration="207000" />
       <workItem from="1683222266579" duration="1288000" />
       <workItem from="1683659056439" duration="376000" />
-      <workItem from="1683820267125" duration="672000" />
+      <workItem from="1683820267125" duration="726000" />
+      <workItem from="1684424264479" duration="658000" />
+      <workItem from="1684429756704" duration="1573000" />
     </task>
     <servers />
   </component>
